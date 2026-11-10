@@ -1,0 +1,4 @@
+I am learning Python.
+Today I learned file handling.
+My goal is AI engineering.
+Tomorrow I will learn APIs.
